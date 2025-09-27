@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.gmail.com/',
 		},
 		{
 			id: '3',
@@ -79,13 +79,13 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://reddit.com/r/linux_gaming',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'x',
+			icon: 'x',
+			link: 'https://x.com/',
 		},
 		{
 			id: '3',
